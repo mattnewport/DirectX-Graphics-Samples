@@ -6,3 +6,9 @@
 /Samples/Desktop/D3D12Raytracing/src/D3D12RaytracingMiniEngineSample
 /Libraries/D3D12RaytracingFallback/src/FallbackLayerUnitTests/x64/
 /Packages
+/Samples/Desktop/D3D12Raytracing/Build_VS15/
+**/.vs/
+**/bin/
+**/obj/
+*.vcxproj.user
+**/Debug/
